@@ -43,7 +43,7 @@ Below is a list of the key endpoints implemented in the API:
 
 1. **Clone the Repository**: Clone the GitHub repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/CMPG-323-Project-2.git
+   git clone (https://github.com/Lali28/RESTful_API-Telemetry-Management).git
    ```
 
 2. **Set Up the Database**:
